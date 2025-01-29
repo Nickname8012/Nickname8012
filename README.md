@@ -20,9 +20,9 @@ I'm a third-year B.Tech student specializing in Artificial Intelligence and Mach
 - **Image Classification**: Created a deep learning model to classify images into different categories with high accuracy.
 
 ## Contact Me
-- **Email**: [your-email@example.com](mailto:shivsao2222@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/Shiv-Kumar-Sao)
-- **GitHub**: [Your GitHub Profile](https://github.com/Nickname8012)
+- [Email](mailto:shivsao2222@gmail.com)
+- [LinkedIn](www.linkedin.com/in/Shiv-Kumar-Sao)
+- [GitHub](https://github.com/Nickname8012)
 
 Feel free to connect with me and check out my projects!
 
