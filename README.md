@@ -21,7 +21,7 @@ I'm a third-year B.Tech student specializing in Artificial Intelligence and Mach
 
 ## Contact Me
 - [Email](mailto:shivsao2222@gmail.com)
-- [LinkedIn](www.linkedin.com/in/Shiv-Kumar-Sao)
+- [LinkedIn](https://www.linkedin.com/in/Shiv-Kumar-Sao/)
 - [GitHub](https://github.com/Nickname8012)
 
 Feel free to connect with me and check out my projects!
